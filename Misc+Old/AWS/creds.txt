@@ -1,0 +1,3 @@
+acc id: 322653607436
+IAM user name: Administrator
+Password: awspass1
